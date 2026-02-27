@@ -3,8 +3,8 @@ dynamikasolucoesweb/laravel-tiny-slider
 ![php version](https://img.shields.io/packagist/php-v/dynamikasolucoesweb/laravel-tiny-slider)
 ![pkg version](https://img.shields.io/packagist/v/dynamikasolucoesweb/laravel-tiny-slider)
 ![license](https://img.shields.io/packagist/l/dynamikasolucoesweb/laravel-tiny-slider)
-![quality](https://img.shields.io/scrutinizer/quality/g/dynamikasolucoesweb/laravel-tiny-slider)
-![build](https://img.shields.io/scrutinizer/build/g/dynamikasolucoesweb/laravel-tiny-slider)
+![quality](https://img.shields.io/scrutinizer/quality/g/dynamikaweb/laravel-tiny-slider)
+![build](https://img.shields.io/scrutinizer/build/g/dynamikaweb/laravel-tiny-slider)
 
 Um componente Blade robusto e flexível para integração do Tiny Slider em aplicações Laravel.
 
